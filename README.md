@@ -1,2 +1,2 @@
 # C-Labs
-Labs from 1-10
+All labs submission
